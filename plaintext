@@ -1,0 +1,11 @@
+fanthak/
+├── app/                 # Main application package
+│   ├── __init__.py
+│   ├── models.py       # Database models
+│   ├── views.py        # Application logic
+│   ├── templates/      # HTML templates
+│   └── static/         # CSS, JS, images
+├── requirements.txt    # Project dependencies
+├── .env.example       # Example environment variables
+├── manage.py          # Django's script (if used)
+└── README.md
