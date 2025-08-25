@@ -1,0 +1,2 @@
+python manage.py migrate  # If using Django
+# Or use your specific setup command
